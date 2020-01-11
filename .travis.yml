@@ -169,6 +169,7 @@ branches:
     # for bors (in particular: don't build "staging.tmp")
     - staging
     - trying
+    - windows-build
 
 notifications:
   email:
